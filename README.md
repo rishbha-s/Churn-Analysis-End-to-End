@@ -1,7 +1,7 @@
 # End-to-End Customer Churn Analysis 
 
 ## 📌 Project Overview
-This project demonstrates an **end-to-end data science and data analysis workflow** for predicting customer churn.  
+This project demonstrates an **end-to-end data analysis workflow** for predicting customer churn.  
 From **data preprocessing and exploratory analysis** to **dashboard visualization and machine learning**, the goal is to identify customers likely to churn and provide **proactive retention strategies** for businesses.
 
 ## 🎯 Business Problem
